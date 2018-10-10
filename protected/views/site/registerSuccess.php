@@ -1,0 +1,1 @@
+<p>You registered successful. Please check your email!!</p>
