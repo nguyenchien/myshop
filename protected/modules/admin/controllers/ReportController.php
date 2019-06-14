@@ -50,11 +50,13 @@ class ReportController extends Controller
 
     public function actionOrderReceptionPdf(){
 
-        $order_id = Yii::app()->request->getParam('id');
-        $order = Order::model()->findByPk($order_id);
-        $viewPath  = Yii::getPathOfAlias('application.commands.views.order_reception_pdf.order_reception_body').'.php';
-        $this->renderFile($viewPath,  array('order' => $order));
-        die();
+        /* Begin: Check Data */
+//	    $order_id = Yii::app()->request->getParam('id');
+//        $order = Order::model()->findByPk($order_id);
+//        $viewPath  = Yii::getPathOfAlias('application.commands.views.order_reception_pdf.order_reception_body').'.php';
+//        $this->renderFile($viewPath,  array('order' => $order));
+//        die();
+        /* End: Check Data */
 
 	    // Get Order Info
 	    $order_id = Yii::app()->request->getParam('id');

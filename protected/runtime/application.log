@@ -1575,3 +1575,15 @@ in /mnt/d/Projects/myshop/data/index.php (19)
 2019/06/05 11:05:45 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
 in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
 in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/14 16:41:49 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/14 16:41:49 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/14 16:43:46 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/14 16:43:46 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
