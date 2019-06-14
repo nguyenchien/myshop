@@ -660,3 +660,918 @@ in /mnt/d/Projects/myshop/data/index.php (19)
 2018/08/31 16:45:49 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
 in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
 in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:34:03 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:34:03 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:34:18 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:34:18 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:34:21 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:34:21 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:01 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:01 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:14 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:14 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:27 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:27 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:34 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:34 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:42 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:36:42 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:37:06 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:37:06 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:45:43 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:45:43 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:45:51 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:45:51 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:10 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:10 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:18 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:18 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:21 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:21 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:25 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:25 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:28 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:28 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:49 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:49 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:56 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:46:56 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:24 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:24 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:31 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:31 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:39 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:39 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:45 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:45 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:46 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:46 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:51 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:51 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:57 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:47:57 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:06 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:06 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:10 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:10 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:27 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:27 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:51 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 21:48:51 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:18 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:18 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:34 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:34 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:42 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:42 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:46 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:46 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:59 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:05:59 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:12 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:12 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:15 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:15 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:18 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:18 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:26 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:26 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:34 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/01/04 22:06:34 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:05:03 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:05:03 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:05:24 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:05:24 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:28:41 [error] [exception.CException] exception 'CException' with message 'Either "name" or "value" must be specified for CDataColumn.' in /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CDataColumn.php:84
+Stack trace:
+#0 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(401): CDataColumn->init()
+#1 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(359): CGridView->initColumns()
+#2 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(147): CGridView->init()
+#3 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(181): CBaseController->createWidget('zii.widgets.gri...', Array)
+#4 /mnt/d/Projects/myshop/protected/modules/admin/views/order/admin.php(176): CBaseController->widget('zii.widgets.gri...', Array)
+#5 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(126): require('/mnt/d/Projects...')
+#6 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/mnt/d/Projects...', Array, true)
+#7 /mnt/d/Projects/myshop/yii/framework/web/CController.php(872): CBaseController->renderFile('/mnt/d/Projects...', Array, true)
+#8 /mnt/d/Projects/myshop/yii/framework/web/CController.php(785): CController->renderPartial('admin', Array, true)
+#9 /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php(152): CController->render('admin', Array)
+#10 /mnt/d/Projects/myshop/yii/framework/web/actions/CInlineAction.php(49): OrderController->actionAdmin()
+#11 /mnt/d/Projects/myshop/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#13 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#14 /mnt/d/Projects/myshop/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#15 /mnt/d/Projects/myshop/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#16 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#17 /mnt/d/Projects/myshop/yii/framework/web/CController.php(291): CFilterChain->run()
+#18 /mnt/d/Projects/myshop/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(282): CController->run('admin')
+#20 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/order/adm...')
+#21 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#22 /mnt/d/Projects/myshop/data/index.php(19): CApplication->run()
+#23 {main}
+REQUEST_URI=/myshop/data/admin/order/admin
+HTTP_REFERER=http://localhost/myshop/data/admin/default
+---
+in /mnt/d/Projects/myshop/protected/components/ExceptionHandler.php (29)
+2019/06/03 11:29:12 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:29:12 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:29:19 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:29:19 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:29:25 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:29:25 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:29:58 [error] [exception.CException] exception 'CException' with message 'Either "name" or "value" must be specified for CDataColumn.' in /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CDataColumn.php:84
+Stack trace:
+#0 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(401): CDataColumn->init()
+#1 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(359): CGridView->initColumns()
+#2 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(147): CGridView->init()
+#3 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(181): CBaseController->createWidget('zii.widgets.gri...', Array)
+#4 /mnt/d/Projects/myshop/protected/modules/admin/views/product/admin.php(115): CBaseController->widget('zii.widgets.gri...', Array)
+#5 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(126): require('/mnt/d/Projects...')
+#6 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/mnt/d/Projects...', Array, true)
+#7 /mnt/d/Projects/myshop/yii/framework/web/CController.php(872): CBaseController->renderFile('/mnt/d/Projects...', Array, true)
+#8 /mnt/d/Projects/myshop/yii/framework/web/CController.php(785): CController->renderPartial('admin', Array, true)
+#9 /mnt/d/Projects/myshop/protected/modules/admin/controllers/ProductController.php(215): CController->render('admin', Array)
+#10 /mnt/d/Projects/myshop/yii/framework/web/actions/CInlineAction.php(49): ProductController->actionAdmin()
+#11 /mnt/d/Projects/myshop/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#13 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#14 /mnt/d/Projects/myshop/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#15 /mnt/d/Projects/myshop/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#16 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#17 /mnt/d/Projects/myshop/yii/framework/web/CController.php(291): CFilterChain->run()
+#18 /mnt/d/Projects/myshop/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(282): CController->run('admin')
+#20 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/product/a...')
+#21 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#22 /mnt/d/Projects/myshop/data/index.php(19): CApplication->run()
+#23 {main}
+REQUEST_URI=/myshop/data/admin/product/admin
+HTTP_REFERER=http://localhost/myshop/data/admin/order/admin
+---
+in /mnt/d/Projects/myshop/protected/components/ExceptionHandler.php (29)
+2019/06/03 11:30:27 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:30:27 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:40:35 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:40:35 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:41:22 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:41:22 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:43:23 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:43:23 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:44:35 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:44:35 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:48:47 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:48:47 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:49:37 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:49:37 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:53:37 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:53:37 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:55:31 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:55:31 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:56:20 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:56:20 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 11:56:56 [error] [exception.CException] exception 'CException' with message 'Property "CDataColumn.template" is not defined.' in /mnt/d/Projects/myshop/yii/framework/base/CComponent.php:173
+Stack trace:
+#0 /mnt/d/Projects/myshop/yii/framework/YiiBase.php(227): CComponent->__set('template', '{view} {update}...')
+#1 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(388): YiiBase::createComponent(Array, Object(CGridView))
+#2 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(359): CGridView->initColumns()
+#3 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(147): CGridView->init()
+#4 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(181): CBaseController->createWidget('zii.widgets.gri...', Array)
+#5 /mnt/d/Projects/myshop/protected/modules/admin/views/order/admin.php(192): CBaseController->widget('zii.widgets.gri...', Array)
+#6 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(126): require('/mnt/d/Projects...')
+#7 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/mnt/d/Projects...', Array, true)
+#8 /mnt/d/Projects/myshop/yii/framework/web/CController.php(872): CBaseController->renderFile('/mnt/d/Projects...', Array, true)
+#9 /mnt/d/Projects/myshop/yii/framework/web/CController.php(785): CController->renderPartial('admin', Array, true)
+#10 /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php(152): CController->render('admin', Array)
+#11 /mnt/d/Projects/myshop/yii/framework/web/actions/CInlineAction.php(49): OrderController->actionAdmin()
+#12 /mnt/d/Projects/myshop/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#14 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /mnt/d/Projects/myshop/yii/framework/web/CController.php(1148): CFilter->filter(Object(CFilterChain))
+#16 /mnt/d/Projects/myshop/yii/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#18 /mnt/d/Projects/myshop/yii/framework/web/CController.php(291): CFilterChain->run()
+#19 /mnt/d/Projects/myshop/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(282): CController->run('admin')
+#21 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/order/adm...')
+#22 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#23 /mnt/d/Projects/myshop/data/index.php(19): CApplication->run()
+#24 {main}
+REQUEST_URI=/myshop/data/admin/order/admin
+HTTP_REFERER=http://localhost/myshop/data/admin/product/admin
+---
+in /mnt/d/Projects/myshop/protected/components/ExceptionHandler.php (29)
+2019/06/03 11:57:37 [error] [php] include(ConfirmButtonColumn.php): failed to open stream: No such file or directory (/mnt/d/Projects/myshop/yii/framework/YiiBase.php:463)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /mnt/d/Projects/myshop/yii/framework/YiiBase.php(310): class_exists()
+#2 /mnt/d/Projects/myshop/yii/framework/YiiBase.php(204): import()
+#3 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(388): createComponent()
+#4 /mnt/d/Projects/myshop/yii/framework/zii/widgets/grid/CGridView.php(359): CGridView->initColumns()
+#5 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(147): CGridView->init()
+#6 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(181): OrderController->createWidget()
+#7 /mnt/d/Projects/myshop/protected/modules/admin/views/order/admin.php(192): OrderController->widget()
+#8 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(126): require()
+#9 /mnt/d/Projects/myshop/yii/framework/web/CBaseController.php(95): OrderController->renderInternal()
+#10 /mnt/d/Projects/myshop/yii/framework/web/CController.php(872): OrderController->renderFile()
+#11 /mnt/d/Projects/myshop/yii/framework/web/CController.php(785): OrderController->renderPartial()
+#12 /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php(152): OrderController->render()
+#13 /mnt/d/Projects/myshop/yii/framework/web/actions/CInlineAction.php(49): OrderController->actionAdmin()
+#14 /mnt/d/Projects/myshop/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#15 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(134): OrderController->runAction()
+#16 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#17 /mnt/d/Projects/myshop/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#18 /mnt/d/Projects/myshop/yii/framework/web/filters/CInlineFilter.php(58): OrderController->filterAccessControl()
+#19 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#20 /mnt/d/Projects/myshop/yii/framework/web/CController.php(291): CFilterChain->run()
+#21 /mnt/d/Projects/myshop/yii/framework/web/CController.php(265): OrderController->runActionWithFilters()
+#22 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(282): OrderController->run()
+#23 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#25 /mnt/d/Projects/myshop/data/index.php(19): CWebApplication->run()
+REQUEST_URI=/myshop/data/admin/order/admin
+in /mnt/d/Projects/myshop/protected/modules/admin/views/order/admin.php (192)
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (152)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 14:50:27 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 14:50:27 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 14:54:02 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 14:54:02 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:17:42 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:17:42 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:21:32 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:21:32 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:22:07 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:22:07 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:26:20 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:26:20 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:29:52 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 15:29:52 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:00:22 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:00:22 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:12:02 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:12:02 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:16:21 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:16:21 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:16:38 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:16:38 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:18:30 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:18:30 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:21:40 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:21:40 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:25:24 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:25:24 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:25:37 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:25:37 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:02 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:02 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:07 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:07 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:11 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:11 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:15 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:15 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:40 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:40 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:51 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:27:51 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:01 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:01 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:06 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:06 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:06 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:06 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:09 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:09 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:12 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:28:12 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:13 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:13 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:23 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:23 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:27 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:27 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:29 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:29 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:38 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:38 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:43 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:43 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:54 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:29:54 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:30:04 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:30:04 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:30:18 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:30:18 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:11 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:11 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:13 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:13 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:21 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:21 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:30 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:31:30 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:35:50 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:35:50 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:40:44 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/03 16:40:44 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 20:14:18 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 20:14:18 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 20:14:19 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 20:14:19 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 21:17:39 [error] [php] require(/mnt/d/Projects/myshop/protected/commands/views/booking_reception_pdf/booking_reception_body.php): failed to open stream: No such file or directory (/mnt/d/Projects/myshop/yii/framework/web/CBaseController.php:130)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/modules/admin/controllers/ReportController.php(54): ReportController->renderFile()
+#1 /mnt/d/Projects/myshop/yii/framework/web/actions/CInlineAction.php(49): ReportController->actionOrderReceptionPdf()
+#2 /mnt/d/Projects/myshop/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(134): ReportController->runAction()
+#4 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /mnt/d/Projects/myshop/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#6 /mnt/d/Projects/myshop/yii/framework/web/filters/CInlineFilter.php(58): ReportController->filterAccessControl()
+#7 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#8 /mnt/d/Projects/myshop/yii/framework/web/CController.php(291): CFilterChain->run()
+#9 /mnt/d/Projects/myshop/yii/framework/web/CController.php(265): ReportController->runActionWithFilters()
+#10 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(282): ReportController->run()
+#11 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#13 /mnt/d/Projects/myshop/data/index.php(19): CWebApplication->run()
+REQUEST_URI=/myshop/data/admin/report/orderReceptionPdf/id/8
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/ReportController.php (54)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 21:18:02 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 21:18:02 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 21:18:11 [error] [php] require(/mnt/d/Projects/myshop/protected/commands/views/booking_reception_pdf/booking_reception_body.php): failed to open stream: No such file or directory (/mnt/d/Projects/myshop/yii/framework/web/CBaseController.php:130)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/modules/admin/controllers/ReportController.php(54): ReportController->renderFile()
+#1 /mnt/d/Projects/myshop/yii/framework/web/actions/CInlineAction.php(49): ReportController->actionOrderReceptionPdf()
+#2 /mnt/d/Projects/myshop/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(134): ReportController->runAction()
+#4 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /mnt/d/Projects/myshop/yii/framework/web/CController.php(1148): CAccessControlFilter->filter()
+#6 /mnt/d/Projects/myshop/yii/framework/web/filters/CInlineFilter.php(58): ReportController->filterAccessControl()
+#7 /mnt/d/Projects/myshop/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter()
+#8 /mnt/d/Projects/myshop/yii/framework/web/CController.php(291): CFilterChain->run()
+#9 /mnt/d/Projects/myshop/yii/framework/web/CController.php(265): ReportController->runActionWithFilters()
+#10 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(282): ReportController->run()
+#11 /mnt/d/Projects/myshop/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#13 /mnt/d/Projects/myshop/data/index.php(19): CWebApplication->run()
+REQUEST_URI=/myshop/data/admin/report/orderReceptionPdf/id/9
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/ReportController.php (54)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 21:20:44 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/04 21:20:44 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 08:42:56 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 08:42:56 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:16:39 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:16:39 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:20:31 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:20:31 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:22:01 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:22:01 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:23:33 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:23:33 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:26:38 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:26:38 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:26:40 [error] [php] include(Order.php): failed to open stream: No such file or directory (/mnt/d/Projects/yii_framework/framework/YiiBase.php:463)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/commands/ReportCommand.php(84): spl_autoload_call()
+#1 unknown(0): ReportCommand->actionCreateBookingReception()
+#2 /mnt/d/Projects/yii_framework/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#3 /mnt/d/Projects/yii_framework/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#4 /mnt/d/Projects/yii_framework/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /mnt/d/Projects/yii_framework/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /mnt/d/Projects/yii_framework/framework/yiic.php(33): CConsoleApplication->run()
+#7 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#8 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 09:26:43 [error] [php] include(Order.php): failed to open stream: No such file or directory (/mnt/d/Projects/yii_framework/framework/YiiBase.php:463)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/commands/ReportCommand.php(84): spl_autoload_call()
+#1 unknown(0): ReportCommand->actionCreateBookingReception()
+#2 /mnt/d/Projects/yii_framework/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#3 /mnt/d/Projects/yii_framework/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#4 /mnt/d/Projects/yii_framework/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /mnt/d/Projects/yii_framework/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /mnt/d/Projects/yii_framework/framework/yiic.php(33): CConsoleApplication->run()
+#7 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#8 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 09:45:58 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 09:45:58 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 10:11:57 [error] [php] require(/mnt/d/Projects/myshop/protected/commands/views/booking_reception_pdf/booking_reception_body.php): failed to open stream: No such file or directory (/mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php:484)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/commands/ReportCommand.php(83): ReportCommand->getFilePDFTmp()
+#1 unknown(0): ReportCommand->actionCreateBookingReception()
+#2 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#3 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#4 /mnt/d/Projects/myshop/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /mnt/d/Projects/myshop/yii/framework/yiic.php(33): CConsoleApplication->run()
+#7 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#8 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 10:12:41 [error] [php] Undefined variable: order (/mnt/d/Projects/myshop/protected/commands/views/order_reception_pdf/order_reception_body.php:3)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/commands/ReportCommand.php(83): ReportCommand->getFilePDFTmp()
+#1 unknown(0): ReportCommand->actionCreateBookingReception()
+#2 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#3 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#4 /mnt/d/Projects/myshop/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /mnt/d/Projects/myshop/yii/framework/yiic.php(33): CConsoleApplication->run()
+#7 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#8 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 10:13:39 [error] [php] fopen(/mnt/d/Projects/myshop/protected/command_tmp/report_pdf/996cec9fefa6613b714801a2289eafb3_content.html): failed to open stream: No such file or directory (/mnt/d/Projects/myshop/protected/commands/ReportCommand.php:17)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/commands/ReportCommand.php(83): ReportCommand->getFilePDFTmp()
+#1 unknown(0): ReportCommand->actionCreateBookingReception()
+#2 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#3 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#4 /mnt/d/Projects/myshop/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /mnt/d/Projects/myshop/yii/framework/yiic.php(33): CConsoleApplication->run()
+#7 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#8 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 10:14:07 [error] [php] fopen(/mnt/d/Projects/myshop/protected/command_tmp/report_pdf/5b6c1ac4888a7aa664a997f9b58a4a8a_content.html): failed to open stream: No such file or directory (/mnt/d/Projects/myshop/protected/commands/ReportCommand.php:17)
+Stack trace:
+#0 /mnt/d/Projects/myshop/protected/commands/ReportCommand.php(83): ReportCommand->getFilePDFTmp()
+#1 unknown(0): ReportCommand->actionCreateBookingReception()
+#2 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#3 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#4 /mnt/d/Projects/myshop/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#5 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#6 /mnt/d/Projects/myshop/yii/framework/yiic.php(33): CConsoleApplication->run()
+#7 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#8 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 10:14:18 [error] [php] Undefined variable: stringExec (/mnt/d/Projects/myshop/protected/components/Utils.php:118)
+Stack trace:
+#0 unknown(0): ReportCommand->actionCreateBookingReception()
+#1 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#2 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#3 /mnt/d/Projects/myshop/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#4 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#5 /mnt/d/Projects/myshop/yii/framework/yiic.php(33): CConsoleApplication->run()
+#6 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#7 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 10:27:34 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 10:27:34 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 10:39:59 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 10:39:59 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 10:58:29 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 10:58:29 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 11:01:45 [error] [php] Undefined variable: stringExec (/mnt/d/Projects/myshop/protected/components/Utils.php:118)
+Stack trace:
+#0 unknown(0): ReportCommand->actionCreateBookingReception()
+#1 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommand.php(172): ReflectionMethod->invokeArgs()
+#2 /mnt/d/Projects/myshop/yii/framework/console/CConsoleCommandRunner.php(71): ReportCommand->run()
+#3 /mnt/d/Projects/myshop/yii/framework/console/CConsoleApplication.php(92): CConsoleCommandRunner->run()
+#4 /mnt/d/Projects/myshop/yii/framework/base/CApplication.php(185): CConsoleApplication->processRequest()
+#5 /mnt/d/Projects/myshop/yii/framework/yiic.php(33): CConsoleApplication->run()
+#6 /mnt/d/Projects/myshop/protected/yiic.php(7): require_once()
+#7 /mnt/d/Projects/myshop/protected/yiic(4): require_once()
+
+2019/06/05 11:05:45 [warning] [application] Failed to set unsafe attribute "from_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)
+2019/06/05 11:05:45 [warning] [application] Failed to set unsafe attribute "to_date" of "Order".
+in /mnt/d/Projects/myshop/protected/modules/admin/controllers/OrderController.php (147)
+in /mnt/d/Projects/myshop/data/index.php (19)

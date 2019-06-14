@@ -8,6 +8,12 @@ return array(
 
 	// preloading 'log' component
 	'preload'=>array('log'),
+    'import'=>array(
+        'application.models.*',
+        'application.models.base.*',
+        'application.components.*',
+        'ext.yii-mail.YiiMailMessage',
+    ),
 
 	// application components
 	'components'=>array(
@@ -26,4 +32,7 @@ return array(
 		),
 
 	),
+    'params' => array(
+        'pathWkHtmlToPdf' => 'wkhtmltopdf'
+    )
 );

@@ -1,6 +1,6 @@
 <?php
 
-class OrderController extends Controller
+class ReportController extends Controller
 {
 	/**
 	 * @var string the default layout for the views. Defaults to '//layouts/column2', meaning
@@ -15,7 +15,6 @@ class OrderController extends Controller
 	{
 		return array(
 			'accessControl', // perform access control for CRUD operations
-			'postOnly + delete', // we only allow deletion via POST request
 		);
 	}
 
@@ -44,139 +43,50 @@ class OrderController extends Controller
 			),
 		);*/
         return array(
-            array('allow', 'users' => array('@'), 'actions' => array('index', 'view', 'create', 'update', 'admin', 'delete')),
+            array('allow', 'users' => array('@'), 'actions' => array('orderReceptionPdf')),
             array('deny', 'users' => array('*')),
         );
 	}
 
-	/**
-	 * Displays a particular model.
-	 * @param integer $id the ID of the model to be displayed
-	 */
-	public function actionView($id) {
-		$this->render('view',array(
-			'model'=>$this->loadModel($id),
-		));
-	}
+    public function actionOrderReceptionPdf(){
 
-	/**
-	 * Creates a new model.
-	 * If creation is successful, the browser will be redirected to the 'view' page.
-	 */
-	public function actionCreate()
-	{
-		$model=new Order;
+        $order_id = Yii::app()->request->getParam('id');
+        $order = Order::model()->findByPk($order_id);
+        $viewPath  = Yii::getPathOfAlias('application.commands.views.order_reception_pdf.order_reception_body').'.php';
+        $this->renderFile($viewPath,  array('order' => $order));
+        die();
 
-		// Uncomment the following line if AJAX validation is needed
-		// $this->performAjaxValidation($model);
+	    // Get Order Info
+	    $order_id = Yii::app()->request->getParam('id');
 
-		if(isset($_POST['Order']))
-		{
-			$model->attributes=$_POST['Order'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->order_id));
-		}
+        // Set up report path
+        $reportPdfPath = implode(DIRECTORY_SEPARATOR, array(Yii::app()->basePath, 'runtime', 'report_pdf'));
 
-		$this->render('create',array(
-			'model'=>$model,
-		));
-	}
-
-	/**
-	 * Updates a particular model.
-	 * If update is successful, the browser will be redirected to the 'view' page.
-	 * @param integer $id the ID of the model to be updated
-	 */
-	public function actionUpdate($id)
-	{
-		$model=$this->loadModel($id);
-
-		// Uncomment the following line if AJAX validation is needed
-		// $this->performAjaxValidation($model);
-
-		if(isset($_POST['Order']))
-		{
-			$model->attributes=$_POST['Order'];
-			if($model->save())
-				$this->redirect(array('view','id'=>$model->order_id));
-		}
-
-		$this->render('update',array(
-			'model'=>$model,
-		));
-	}
-
-	/**
-	 * Deletes a particular model.
-	 * If deletion is successful, the browser will be redirected to the 'admin' page.
-	 * @param integer $id the ID of the model to be deleted
-	 */
-	public function actionDelete($id)
-	{
-		$this->loadModel($id)->delete();
-
-		// if AJAX request (triggered by deletion via admin grid view), we should not redirect the browser
-		if(!isset($_GET['ajax']))
-			$this->redirect(isset($_POST['returnUrl']) ? $_POST['returnUrl'] : array('admin'));
-	}
-
-	/**
-	 * Lists all models.
-	 */
-	public function actionIndex()
-	{
-		$dataProvider=new CActiveDataProvider('Order');
-		$this->render('index',array(
-			'dataProvider'=>$dataProvider,
-		));
-	}
-
-	/**
-	 * Manages all models.
-	 */
-	public function actionAdmin()
-	{
-		$model=new Order('search');
-		$model->unsetAttributes();  // clear any default values
-
-        // Set điều kiện search mặc định
-        $model->from_date = date('Y-m-d');
-        $model->to_date = date('Y-m-d');
-
-		if(isset($_GET['Order'])) {
-            $model->attributes=$_GET['Order'];
+        if (!file_exists($pdfPath = $reportPdfPath.DIRECTORY_SEPARATOR.'pdf')) {
+            mkdir($pdfPath, 0777,true);
         }
 
-		$this->render('admin',array(
-			'model'=>$model,
-		));
-	}
+        if ($order_id) {
+            $updateTime = date('d-m-Y-H-i');
+            $file_name = 'report_order_'.$order_id.'.pdf';
+            $file_tmp = $pdfPath.DIRECTORY_SEPARATOR.$order_id.'_'.$updateTime.'.pdf';
 
-	/**
-	 * Returns the data model based on the primary key given in the GET variable.
-	 * If the data model is not found, an HTTP exception will be raised.
-	 * @param integer $id the ID of the model to be loaded
-	 * @return Order the loaded model
-	 * @throws CHttpException
-	 */
-	public function loadModel($id)
-	{
-		$model=Order::model()->findByPk($id);
-		if($model===null)
-			throw new CHttpException(404,'The requested page does not exist.');
-		return $model;
-	}
+            // Check $file_tmp file is not exist then call console create new $file_tmp file
+            if (!file_exists($file_tmp)) {
+                ConsoleRunner::console(array('waiting_command' => true))->run("report createBookingReception --order_id=$order_id  --file_tmp=$file_tmp > $reportPdfPath".DIRECTORY_SEPARATOR.'single_pdf_file.log');
+            }
 
-	/**
-	 * Performs the AJAX validation.
-	 * @param Order $model the model to be validated
-	 */
-	protected function performAjaxValidation($model)
-	{
-		if(isset($_POST['ajax']) && $_POST['ajax']==='order-form')
-		{
-			echo CActiveForm::validate($model);
-			Yii::app()->end();
-		}
-	}
+            if(Utils::readFilePdf($file_tmp, $file_name, false)) {
+                Yii::app()->end();
+            } else {
+                ob_start();
+                echo readfile($reportPdfPath.DIRECTORY_SEPARATOR.'single_pdf_file.log');
+                $errors = ob_get_clean();
+                Yii::app()->user->setFlash('error', $errors);
+            }
+
+        }
+
+    }
+
 }

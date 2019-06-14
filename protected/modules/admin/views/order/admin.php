@@ -171,6 +171,17 @@ $('.search-form form').submit(function(){
                     ),
                     array(
                         'class'=>'CButtonColumn',
+                        'template'=>'{view} {update} {delete} {pdf}',
+                        'buttons'=>array(
+                            'pdf' => array(
+                                'options' => array(
+                                    'title' => 'Print PDF',
+                                    'class' => 'btn-admin pdf'
+                                ),
+                                'label' => '<img src="'.BASE_URL.'/images/pdficon.png">',
+                                'url' => function($data) { return Yii::app()->createUrl('admin/report/orderReceptionPdf', array('id' => $data->order_id));}
+                            )
+                        ),
                     ),
                 ),
             )); ?>
