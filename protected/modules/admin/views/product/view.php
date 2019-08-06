@@ -32,8 +32,20 @@ $this->menu=array(
                 return CHtml::image(Yii::app()->getBaseUrl(true).$data->image, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "50px"));
             }
         ),
-		'image_2',
-		'image_3',
+        array(
+            'name' => 'image_2',
+            'type' => 'raw',
+            'value' => function($data){
+                return CHtml::image(Yii::app()->getBaseUrl(true).$data->image_2, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "50px"));
+            }
+        ),
+        array(
+            'name' => 'image_3',
+            'type' => 'raw',
+            'value' => function($data){
+                return CHtml::image(Yii::app()->getBaseUrl(true).$data->image_3, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "50px"));
+            }
+        ),
 		'description',
 		'meta_key',
 		'meta_description',

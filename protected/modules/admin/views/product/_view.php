@@ -30,11 +30,17 @@
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('image_2')); ?>:</b>
-	<?php echo CHtml::encode($data->image_2); ?>
+	<?php
+        //echo CHtml::encode($data->image_2);
+        echo CHtml::image(Yii::app()->getBaseUrl(true).$data->image_2, 'Laptop '.$data->pro_name, array('width'=>'50px'));
+    ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('image_3')); ?>:</b>
-	<?php echo CHtml::encode($data->image_3); ?>
+	<?php
+        //echo CHtml::encode($data->image_3);
+        echo CHtml::image(Yii::app()->getBaseUrl(true).$data->image_3, 'Laptop '.$data->pro_name, array('width'=>'50px'));
+    ?>
 	<br />
 
 	<b><?php echo CHtml::encode($data->getAttributeLabel('description')); ?>:</b>

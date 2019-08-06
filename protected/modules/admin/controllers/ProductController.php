@@ -89,18 +89,24 @@ class ProductController extends Controller
 
             // Dùng class CUploadedFile để up hình lên server
             $image = CUploadedFile::getInstance($model, 'image');
+            $image_2 = CUploadedFile::getInstance($model, 'image_2');
+            $image_3 = CUploadedFile::getInstance($model, 'image_3');
 
             // Quy định định dạng hình cho phép
             $ext_allow = array('jpg', 'png', 'jpeg', 'gif');
 
             // Get định dạng hình
             $ext = substr($image->name, strrpos($image->name, '.') + 1);
+            $ext_2 = substr($image_2->name, strrpos($image_2->name, '.') + 1);
+            $ext_3 = substr($image_3->name, strrpos($image_3->name, '.') + 1);
 
             // Quy định kích thước hình cho phép
             $size_allow = 1024 * 1024 * 1; // 1 MB
 
             // Get kích thước hình
             $size = $image->size;
+            $size_2 = $image_2->size;
+            $size_3 = $image_3->size;
 
             if(!empty($image)){
                 if(!in_array($ext, $ext_allow)){
@@ -114,9 +120,13 @@ class ProductController extends Controller
                 } else {
                     // Lưu hình lên server với name = name gốc + $temTime
                     $image->saveAs($path . '/' . $temTime.$image->name);
+                    $image_2->saveAs($path . '/' . $temTime.$image_2->name);
+                    $image_3->saveAs($path . '/' . $temTime.$image_3->name);
 
                     // Lưu đường dẫn hình vào DB
                     $model->image = '/uploads/'.$temTime.$image->name;
+                    $model->image_2 = '/uploads/'.$temTime.$image_2->name;
+                    $model->image_3 = '/uploads/'.$temTime.$image_3->name;
                 }
             }
 
@@ -153,17 +163,29 @@ class ProductController extends Controller
 
 		if(isset($_POST['Product'])) {
 			$model->attributes=$_POST['Product'];
-			if(!empty($_FILES['Product']['name']['image'])){
-                $temTime = time();
-                $path = Yii::getPathOfAlias('webroot') . '/uploads';
+            $temTime = time();
+            $path = Yii::getPathOfAlias('webroot') . '/uploads';
 
+			if( !empty($_FILES['Product']['name']['image']) ){
                 //Upload image to server
                 $image = CUploadedFile::getInstance($model, 'image');
                 $image->saveAs($path.'/'.$temTime.$image->name);
 
                 //Save image to model
                 $model->image = '/uploads/'.$temTime.$_FILES['Product']['name']['image'];
+            } elseif ( !empty($_FILES['Product']['name']['image_2']) ) {
+                $image_2 = CUploadedFile::getInstance($model, 'image_2');
+                $image_2->saveAs($path.'/'.$temTime.$image_2->name);
+
+                $model->image_2 = '/uploads/'.$temTime.$_FILES['Product']['name']['image_2'];
+            } elseif ( !empty($_FILES['Product']['name']['image_3']) ) {
+                $image_3 = CUploadedFile::getInstance($model, 'image_3');
+                $image_3->saveAs($path.'/'.$temTime.$image_3->name);
+
+                $model->image_3 = '/uploads/'.$temTime.$_FILES['Product']['name']['image_3'];
             }
+
+            // Save all to DB
             if($model->save()){
                 $this->redirect(array('view','id'=>$model->pro_id));
             }
