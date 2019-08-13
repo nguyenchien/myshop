@@ -163,6 +163,7 @@ class ProductController extends Controller
             $temTime = time();
             $path = Yii::getPathOfAlias('webroot') . '/uploads';
 
+            // Main mage
 			if( !empty($_FILES['Product']['name']['image']) ){
                 //Upload image to server
                 $image = CUploadedFile::getInstance($model, 'image');
@@ -170,12 +171,18 @@ class ProductController extends Controller
 
                 //Save image to model
                 $model->image = '/uploads/'.$temTime.$_FILES['Product']['name']['image'];
-            } elseif ( !empty($_FILES['Product']['name']['image_2']) ) {
+            }
+
+            // Sub image 1
+            if ( !empty($_FILES['Product']['name']['image_2']) ) {
                 $image_2 = CUploadedFile::getInstance($model, 'image_2');
                 $image_2->saveAs($path.'/'.$temTime.$image_2->name);
 
                 $model->image_2 = '/uploads/'.$temTime.$_FILES['Product']['name']['image_2'];
-            } elseif ( !empty($_FILES['Product']['name']['image_3']) ) {
+            }
+
+            // Sub image 2
+            if ( !empty($_FILES['Product']['name']['image_3']) ) {
                 $image_3 = CUploadedFile::getInstance($model, 'image_3');
                 $image_3->saveAs($path.'/'.$temTime.$image_3->name);
 
