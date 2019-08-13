@@ -155,11 +155,8 @@ class ProductController extends Controller
         //Get Category from model
         $cate = Category::getAllCate();
 
-        //Convert cate obj to array list data
+        //Convert cate obj to array list data (key=>value)
         $data = CHtml::listData($cate, 'cate_id', 'cate_name');
-
-        //var_dump($_FILES['Product']['name']['image']);
-        //var_dump($model->image);
 
 		if(isset($_POST['Product'])) {
 			$model->attributes=$_POST['Product'];

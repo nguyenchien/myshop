@@ -43,7 +43,7 @@
 	<div class="row">
 		<?php echo $form->labelEx($model,'image'); ?>
         <?php if($model->image): ?>
-            <span class="image"><img src="<?= BASE_URL . $model->image; ?>" width="80" alt=""></span>
+            <span class="image"><img src="<?= BASE_URL . $model->image; ?>" width="100" alt=""></span>
         <?php endif; ?>
 		<?php //echo $form->fileField($model,'image',array('size'=>60,'maxlength'=>255)); ?>
         <?php echo CHtml::fileField('Product[image]', $model->image, array('size'=>60,'maxlength'=>255)); ?>
@@ -53,7 +53,7 @@
     <div class="row">
         <?php echo $form->labelEx($model,'image_2'); ?>
         <?php if($model->image_2): ?>
-            <span class="image"><img src="<?= BASE_URL . $model->image_2; ?>" width="80" alt=""></span>
+            <span class="image"><img src="<?= BASE_URL . $model->image_2; ?>" width="100" alt=""></span>
         <?php endif; ?>
         <?php //echo $form->fileField($model,'image_2',array('size'=>60,'maxlength'=>255)); ?>
         <?php echo CHtml::fileField('Product[image_2]', $model->image_2, array('size'=>60,'maxlength'=>255)); ?>
@@ -63,7 +63,7 @@
     <div class="row">
         <?php echo $form->labelEx($model,'image_3'); ?>
         <?php if($model->image_3): ?>
-            <span class="image"><img src="<?= BASE_URL . $model->image_3; ?>" width="80" alt=""></span>
+            <span class="image"><img src="<?= BASE_URL . $model->image_3; ?>" width="100" alt=""></span>
         <?php endif; ?>
         <?php //echo $form->fileField($model,'image_3',array('size'=>60,'maxlength'=>255)); ?>
         <?php echo CHtml::fileField('Product[image_3]', $model->image_3, array('size'=>60,'maxlength'=>255)); ?>

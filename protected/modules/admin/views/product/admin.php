@@ -78,7 +78,7 @@ or <b>=</b>) at the beginning of each of your search values to specify how the c
             'value' => function($data){
                 return CHtml::image(Yii::app()->getBaseUrl(true).$data->image, 'Laptop '.$data->pro_name, array(
                     'title' => 'Laptop '.$data->pro_name,
-                    'width' => "50px"
+                    'width' => "100px"
                 ));
             }
         ),

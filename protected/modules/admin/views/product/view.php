@@ -29,21 +29,27 @@ $this->menu=array(
             'name' => 'image',
             'type' => 'raw',
             'value' => function($data){
-                return CHtml::image(Yii::app()->getBaseUrl(true).$data->image, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "50px"));
+                if ( !empty($data->image) ) {
+                    return CHtml::image(Yii::app()->getBaseUrl(true).$data->image, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "100px"));
+                }
             }
         ),
         array(
             'name' => 'image_2',
             'type' => 'raw',
             'value' => function($data){
-                return CHtml::image(Yii::app()->getBaseUrl(true).$data->image_2, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "50px"));
+                if ( !empty($data->image_2) ) {
+                    return CHtml::image(Yii::app()->getBaseUrl(true).$data->image_2, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "100px"));
+                }
             }
         ),
         array(
             'name' => 'image_3',
             'type' => 'raw',
             'value' => function($data){
-                return CHtml::image(Yii::app()->getBaseUrl(true).$data->image_3, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "50px"));
+                if ( !empty($data->image_3) ) {
+                    return CHtml::image(Yii::app()->getBaseUrl(true).$data->image_3, 'Laptop '.$data->pro_name, array('title' => 'Laptop '.$data->pro_name,'width' => "100px"));
+                }
             }
         ),
 		'description',
