@@ -93,8 +93,10 @@ class ProductController extends Controller
             $image_3 = CUploadedFile::getInstance($model, 'image_3');
 
             if($image) {
+                // Save hình vào DB
                 $model->image = '/uploads/'.$temTime.$image->name;
                 if ($model->validate()) {
+                    // Upload hình lên Server
                     $image->saveAs($path . '/' . $temTime.$image->name);
                 }
             }
