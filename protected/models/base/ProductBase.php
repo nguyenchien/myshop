@@ -37,6 +37,7 @@ class ProductBase extends CActiveRecord
 		// will receive user inputs.
 		return array(
 			array('pro_name, cate_id, price, image', 'required'),
+			array('image, image_2, image_3', 'validateImage'), // Hàm validate hình ảnh
 			array('cate_id, price, status', 'numerical', 'integerOnly'=>true),
 			array('pro_name, image, image_2, image_3', 'length', 'max'=>255),
 			array('description, meta_key, meta_description, date_create, date_modified, image', 'safe'),
@@ -120,6 +121,39 @@ class ProductBase extends CActiveRecord
 			'criteria'=>$criteria,
 		));
 	}
+
+    /**
+     * Returns boolean, true: nếu không có lỗi, false: nếu có lỗi xảy ra
+     * @param string $attr of model
+     * @return boolean
+     */
+    public function validateImage($attr) {
+	    $validate = true;
+
+        $image = CUploadedFile::getInstance($this, $attr);
+
+        if (is_null($image)) {
+            return false;
+        }
+
+        // Định dạng hình cho phép
+        $ext_allow = array('jpg', 'png', 'jpeg', 'gif');
+        $ext = substr($image->name, strrpos($image->name, '.') + 1);
+
+        // Kích thước hình cho phép
+        $size_allow = 1024 * 1024 * 1; // 1 MB
+        $size = $image->size;
+
+        if(!in_array($ext, $ext_allow)){
+            $this->addError($attr, "$attr, định dạng hình phải là: jpg, png, jpeg, gif.");
+            $validate = false;
+        } elseif ($size > $size_allow || $size == 0) {
+            $this->addError($attr, "$attr, dung lượng hình phải <= 1M.");
+            $validate = false;
+        }
+        return $validate;
+    }
+
 
 	/**
 	 * Returns the static model of the specified AR class.

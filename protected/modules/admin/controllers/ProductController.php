@@ -92,47 +92,35 @@ class ProductController extends Controller
             $image_2 = CUploadedFile::getInstance($model, 'image_2');
             $image_3 = CUploadedFile::getInstance($model, 'image_3');
 
-            // Quy định định dạng hình cho phép
-            $ext_allow = array('jpg', 'png', 'jpeg', 'gif');
-
-            // Get định dạng hình
-            $ext = substr($image->name, strrpos($image->name, '.') + 1);
-            $ext_2 = substr($image_2->name, strrpos($image_2->name, '.') + 1);
-            $ext_3 = substr($image_3->name, strrpos($image_3->name, '.') + 1);
-
-            // Quy định kích thước hình cho phép
-            $size_allow = 1024 * 1024 * 1; // 1 MB
-
-            // Get kích thước hình
-            $size = $image->size;
-            $size_2 = $image_2->size;
-            $size_3 = $image_3->size;
-
-            if(!empty($image)){
-                if(!in_array($ext, $ext_allow)){
-                    echo '<script language="javascript">';
-                    echo 'alert("Định dạng hình không cho phép!")';
-                    echo '</script>';
-                } elseif ($size > $size_allow || $size == 0){
-                    echo '<script language="javascript">';
-                    echo 'alert("Dung lượng hình phải <= 1M!")';
-                    echo '</script>';
-                } else {
-                    // Lưu hình lên server với name = name gốc + $temTime
+            if($image) {
+                $model->image = '/uploads/'.$temTime.$image->name;
+                if ($model->validate()) {
                     $image->saveAs($path . '/' . $temTime.$image->name);
-                    $image_2->saveAs($path . '/' . $temTime.$image_2->name);
-                    $image_3->saveAs($path . '/' . $temTime.$image_3->name);
-
-                    // Lưu đường dẫn hình vào DB
-                    $model->image = '/uploads/'.$temTime.$image->name;
-                    $model->image_2 = '/uploads/'.$temTime.$image_2->name;
-                    $model->image_3 = '/uploads/'.$temTime.$image_3->name;
                 }
             }
 
-            // Save data to model
-            if($model->save())
+            if ($image_2) {
+                $model->image_2 = '/uploads/'.$temTime.$image_2->name;
+                if ($model->validate()) {
+                    $image_2->saveAs($path . '/' . $temTime.$image_2->name);
+                }
+            }
+
+            if ($image_3) {
+                $model->image_3 = '/uploads/'.$temTime.$image_3->name;
+                if ($model->validate()) {
+                    $image_3->saveAs($path . '/' . $temTime . $image_3->name);
+                }
+            }
+
+            /*
+                Save data to model.
+                Trong hàm 'save()' đã có gọi hàm validate() mặc định của model.
+                Nên hàm 'validateImage()' cũng đc tự động gọi
+             */
+            if($model->save()){
                 $this->redirect(array('view','id'=>$model->pro_id));
+            }
 		}
 
 		$this->render('create',array(
